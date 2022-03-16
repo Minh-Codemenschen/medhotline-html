@@ -38,7 +38,9 @@
 
 /* style content */
 
-.add-cricle {}
+.add-cricle {
+    position: unset;
+}
 
 
 /* style content */
